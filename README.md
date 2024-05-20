@@ -20,13 +20,18 @@
 ## 팀소개
 
 PL 선민수
+<br/>
 TA 최현흠
+<br/>
 AA 백지은
+<br/>
 AA 김태원
+<br/>
 DA 송현지
+<br/>
 UA 김다애
 
-## 📚 STACKS
+## 기술스택 📚
 
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -49,11 +54,13 @@ UA 김다애
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
 ## ERD
 
 ![image](https://github.com/jjinny2023/FinalProjectHi4Crates/assets/143934167/597530dd-35e4-4c54-8213-acc7a441fe4e)
 
 ## 주요기능
+
 
 ## 담당기능
 
