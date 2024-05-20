@@ -15,7 +15,16 @@
 
 ## 개발 기간
 
+2024.03.~2024.05.
+
 ## 팀소개
+
+PL 선민수
+TA 최현흠
+AA 백지은
+AA 김태원
+DA 송현지
+UA 김다애
 
 ## Stacks
 
@@ -35,8 +44,9 @@
 </div>
 
 ## ERD
+
 ![image](https://github.com/jjinny2023/FinalProjectHi4Crates/assets/143934167/597530dd-35e4-4c54-8213-acc7a441fe4e)
-## 화면구성
+
 ## 주요기능
 
 ## 담당기능
