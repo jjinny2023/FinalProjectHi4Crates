@@ -13,6 +13,9 @@
 
 ● 의료종사자들의 업무 편의성을 높여 업무피로도를 줄임으로써 양질의 서비스를 제공하도록 하는 것이 목적입니다.
 
+<img width="856" alt="진료차트 미리보기" src="https://github.com/jjinny2023/FinalProjectHi4Crates/assets/143934167/cc6ee2af-11af-4cb9-9e9e-ac8aebd01394">
+
+
 ## 개발 기간 📆
 
 2024.03.~2024.05.
