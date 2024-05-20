@@ -13,11 +13,11 @@
 
 ● 의료종사자들의 업무 편의성을 높여 업무피로도를 줄임으로써 양질의 서비스를 제공하도록 하는 것이 목적입니다.
 
-##개발 기간
+## 개발 기간
 
-##팀소개
+## 팀소개
 
-##Stacks
+## Stacks
 
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
@@ -34,13 +34,13 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-##ERD
+## ERD
 ![image](https://github.com/jjinny2023/FinalProjectHi4Crates/assets/143934167/597530dd-35e4-4c54-8213-acc7a441fe4e)
-##화면구성
-##주요기능
+## 화면구성
+## 주요기능
 
-##담당기능
+## 담당기능
 
-##프로젝트후기
+## 프로젝트후기
 
 
